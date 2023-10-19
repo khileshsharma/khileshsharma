@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="mailto:20uec069@lnmiit.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/khileshsharma/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
-<a href="https://mobile.twitter.com/khileshsharma01"><img src="https://img.shields.io/badge/keshav951-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/khileshsharma/"><img src="https://img.shields.io/badge/KhileshSharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://mobile.twitter.com/khileshsharma01"><img src="https://img.shields.io/badge/KhileshSharma01-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 </p>
 
 
