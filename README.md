@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khilesh Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working with MERN Stack. <!--on [JobsTracker](https://myjobstracker.onrender.com/)-->
+- 🔭 I’m currently working with MERN Stack & Flutter. <!--on [JobsTracker](https://myjobstracker.onrender.com/)-->
 - 👯 I’m looking for full time opportunities as a Backend/Fullstack Dev.
 - 🌱 I’m currently learning about Microservices using Node.Js, MySQL, RabbitMQ etc.
 - 📫 How to reach me **khileshsharma001@gmail.com**
