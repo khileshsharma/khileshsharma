@@ -5,7 +5,7 @@
 - 👯 I’m looking for full time opportunities as a Backend/Fullstack Dev.
 - 🌱 I’m currently learning about Microservices using Node.Js, MySQL, RabbitMQ etc.
 - 📫 How to reach me **khileshsharma001@gmail.com**
-- ⚡ Fun fact **I do Poetry**
+- 📜 Fun fact **I do Poetry🍂** 
 
 <!-- [![Khilesh' GitHub stats](https://github-readme-stats.vercel.app/api?username=khileshsharma)]-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khileshsharma)
