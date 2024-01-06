@@ -5,7 +5,7 @@
   
 - 👯 I’m looking for full time opportunities as a Backend/Fullstack Dev.
   
-- 🌱 I’m currently learning about Microservices using Node.Js, MySQL, RabbitMQ etc.
+- 🌱 I’m currently learning about GoLang & Unit+Integrated Testing.
   
 - 📫 How to reach me **khileshsharma001@gmail.com**
   
